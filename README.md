@@ -1,6 +1,8 @@
 # Advent-of-Code-2024
 Have Fun with Dr. Hobbes and CS 300 folks! Merry Xmas!
 
+Find the stories, puzzles and data here: https://adventofcode.com/2024
+
 
 ### About: 
 Advent of Code is an annual set of Christmas-themed computer programming challenges that follow an Advent calendar. It has been running since 2015.
