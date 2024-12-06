@@ -1,5 +1,5 @@
 # Advent-of-Code-2024
-Have Fun with Dr. Hobbes, CS 300 folks! Merry Xmas!
+Have Fun with Dr. Hobbes and CS 300 folks! Merry Xmas!
 
 
 ### About: 
