@@ -12,3 +12,5 @@ The programming puzzles cover a variety of skill sets and skill levels and can b
 The event was founded and is maintained by software engineer Eric Wastl.
 
 (Source: https://en.wikipedia.org/wiki/Advent_of_Code)
+
+Community: https://www.reddit.com/r/adventofcode/
