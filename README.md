@@ -1,7 +1,8 @@
-# Advent-of-Code-2024
-Have Fun with Dr. Hobbes and CS 300 folks! Merry Xmas!
+# Advent of Code
+Have Fun with Dr. Hobbes and CS 300 folks! Merry Xmas! 
+Thanks for Hobbes for introducing this :)
 
-Find the stories, puzzles and data here: https://adventofcode.com/2024
+Find the stories, puzzles and data here: https://adventofcode.com/
 
 
 ### About: 
